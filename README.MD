@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es un programa en C que calcula las raíces de una ecuación cuadrática de la forma `ax^2 + bx + c = 0`. El programa puede manejar raíces reales y complejas, y muestra los resultados con precisión a dos decimales.
+Este proyecto es un programa de consola en C que calcula las raíces de una ecuación cuadrática de la forma `ax^2 + bx + c = 0`. El programa puede manejar raíces reales y complejas, y muestra los resultados con precisión a dos decimales.
 
 ## Funcionalidades
 
