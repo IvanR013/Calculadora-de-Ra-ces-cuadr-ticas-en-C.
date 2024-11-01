@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es un programa de consola en C (Con un link de test del programa transpilado a JS) que calcula las raíces de una ecuación cuadrática de la forma `ax^2 + bx + c = 0`. El programa puede manejar raíces reales y complejas, y muestra los resultados con precisión a dos decimales.
+Este proyecto es un programa de consola en C (Con un link de test del programa transpilado a JS para que pruebes el programa) que calcula las raíces de una ecuación cuadrática de la forma `ax^2 + bx + c = 0`. El programa puede manejar raíces reales y complejas, y muestra los resultados con precisión a dos decimales.
 
 ## Funcionalidades
 
